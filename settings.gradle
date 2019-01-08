@@ -1,0 +1,1 @@
+include ':Intentapp', ':activityforresult', ':systemintents', ':fragment'
